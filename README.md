@@ -6,7 +6,7 @@ javascript:(function(){var queryString=prompt("Enter query string:");if(!querySt
 ```
 ### Instructions for Use:
 - Copy the entire JavaScript code above.
-- Create a new bookmark in your browser: right-click the bookmarks bar > Add page.
+- Create a **new bookmark** (e.g: Auto-CVC) in your browser: right-click the bookmarks bar > Add page.
 - Paste the JavaScript code into the URL or Location field.
 - Name the bookmark as desired.
 - Click the bookmark when on a Kintone app page where you want to execute this script.
